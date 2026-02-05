@@ -1,0 +1,13 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.csproj.user
+
+# Database
+*.db
+
+# OS junk
+.DS_Store
+Thumbs.db
