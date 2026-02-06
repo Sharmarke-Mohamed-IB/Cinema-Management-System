@@ -3,16 +3,16 @@
 **Live Demo:** https://cinema-euqq.onrender.com  
 
 A **Dockerized ASP.NET Core MVC web application** for cinema management, featuring
-role-based authentication, database-backed operations, and cloud deployment.
+role based authentication, database-backed operations, and cloud deployment.
 
 This project demonstrates the **full lifecycle of a web application**:
-development → containerization → deployment.
+development - containerization - deployment.
 
 ---
 
 ##  Overview
 
-The Cinema Management System is a full-stack web application designed to manage
+The Cinema Management System is a full stack web application designed to manage
 cinema operations such as movies, screenings, and user interactions.
 
 It is built using **ASP.NET Core MVC**, follows the **MVC architectural pattern**,
@@ -25,7 +25,7 @@ and is deployed as a **containerized application** using Docker.
 - **Frontend:** Razor Views, HTML, CSS, Bootstrap
 - **Backend:** ASP.NET Core MVC (C#)
 - **Database:** SQLite (via Entity Framework Core)
-- **Authentication:** Role-based user authentication
+- **Authentication:** Role based user authentication
 - **Deployment:** Docker + Render Cloud Platform
 
 The project is structured to clearly separate concerns:
@@ -40,7 +40,7 @@ The project is structured to clearly separate concerns:
 ### Authentication
 - User registration and login
 - Session-based authentication
-- Role-based authorization
+- Role based authorization
 
 ### Roles
 - **Admin**
@@ -92,11 +92,11 @@ https://cinema-euqq.onrender.com
 
 ## What This Project Demonstrates
 
-- MVC-based web application design
-- Role-based access control
+- MVC based web application design
+- Role based access control
 - Database integration with EF Core
-- Docker-based containerization
-- Cloud deployment of a production-ready app
+- Docker based containerization
+- Cloud deployment of a production ready app
 
 ---
 
@@ -104,4 +104,5 @@ https://cinema-euqq.onrender.com
 
 This project was developed iteratively and improved over time,
 reflecting real-world software development practices.
+
 
